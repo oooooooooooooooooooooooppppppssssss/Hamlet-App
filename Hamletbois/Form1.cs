@@ -222,5 +222,12 @@ namespace Hamletbois
         {
 
         }
+
+        private void button26_Click(object sender, EventArgs e)
+        {
+           
+            Form23 f23 = new Form23();
+            f23.ShowDialog();
+        }
     }
 }
